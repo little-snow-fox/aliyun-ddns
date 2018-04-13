@@ -1,4 +1,4 @@
-# aliyun-ddns
+# aliyun-ddns-node
 使用阿里云云解析进行动态域名解析，把本机的动态IP进行域名解析。
 
 # 使用客户端
