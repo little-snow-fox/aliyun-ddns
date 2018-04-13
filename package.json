@@ -1,0 +1,13 @@
+{
+  "name": "aliyun-ddns",
+  "version": "1.0.2",
+  "author": {
+    "name" : "snowfox",
+    "email" : "fox@sfxh.cc"
+  },
+  "dependencies": {
+    "aliyun-apisign": "^1.0.2",
+    "log": "^1.4.0",
+    "node-fetch": "^2.1.2"
+  }
+}
